@@ -10,6 +10,7 @@ Env:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Termux&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/play-station-blue.svg?logo=https://avatars.githubusercontent.com/u/8104776?s=200&v=4)](https://github.com/termux)
 
 IDE:
 
