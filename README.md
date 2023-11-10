@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there,I'm devgho 👋
+- 🔭 I’m currently working on AIGC
+- 🌱 I’m currently learning Android
+- 💬 Ask me about AI and Frontend(Vue React Unity Cocos...)
+- 🤔 I’m hunting for a job with remote work
+- 📫 How to reach me: devgho@outlook.com
+
+Env:
 
 <!--
 **devgho/devgho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
