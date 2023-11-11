@@ -16,7 +16,7 @@ IDE:
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Android%20Studio-blue?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.google.cn/studio/)
 [![](https://img.shields.io/badge/IntelliJ-%20PyCharm-green?style=flat-square&logo=PyCharm&logoColor=ffffff)]([https://www.jetbrains.com/idea/](https://www.jetbrains.com/zh-cn/pycharm/))
-[![](https://img.shields.io/badge/IntelliJ-%20PhpStorm-violet?style=flat-square&logo=PhpStorm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/phpstorm/)
+[![](https://img.shields.io/badge/IntelliJ-%20PhpStorm-purple?style=flat-square&logo=PhpStorm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/phpstorm/)
 
 
 
