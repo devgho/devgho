@@ -9,7 +9,7 @@ Env:
 
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/termux-gray.svg?style=flat-square&logo=termius)](https://github.com/termux)
+[![](https://img.shields.io/badge/Termux-gray.svg?style=flat-square&logo=termius)](https://github.com/termux)
 
 IDE:
 
@@ -27,6 +27,7 @@ Lang:
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/TypeScript-cb3837?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/Php?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![](https://img.shields.io/badge/Shell-f05032?style=flat-square&logo=powershell&logoColor=ffffff)](https://www.shell.com/)
 
 Framework && Other:
