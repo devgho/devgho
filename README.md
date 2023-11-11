@@ -9,7 +9,7 @@ Env:
 
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/Termux-gray.svg?style=flat-square&logo=termius)](https://github.com/termux)
+[![](https://img.shields.io/badge/-Termux-000000?style=flat-square&logoColor=ffffff)](https://termux.com/)
 
 IDE:
 
