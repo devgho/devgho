@@ -15,7 +15,7 @@ IDE:
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IntelliJ-%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/Android-studio-blue?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.google.cn/studio/)
+[![](https://img.shields.io/badge/IDE-AndroidStudio-blue?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.google.cn/studio/)
 
 
 
